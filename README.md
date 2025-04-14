@@ -1,18 +1,18 @@
-<h2>Hello I'm</h2>
+<h2>Hi there, I'm</h2>
 
-<img src="https://i.imgur.com/LtnZ93v.jpg" alt="banner that says Franco Galfre - Frontend Developer" width="830px" heigth="200px" >
+<img src="https://i.imgur.com/LtnZ93v.jpg" alt="banner that says Franco Galfre - Frontend Developer" width="830px" >
 
-<div align="start">
-  <a href="https://github.com/francogalfre" target="_blank">
-    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 10px;">
+  <a href="https://github.com/francogalfre">
+    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://linkedin.com/in/francogalfre" target="_blank">
-    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  <a href="https://linkedin.com/in/francogalfre">
+    <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:francogalfre.work@gmail.com" target="_blank">
-    <img src=https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
+  <a href="mailto:francogalfre.work@gmail.com">
+    <img src="https://img.shields.io/badge/gmail-%231E77B5.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
-</div> 
+</div>
 
 <br />
 
