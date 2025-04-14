@@ -2,18 +2,17 @@
 
 <img src="https://i.imgur.com/LtnZ93v.jpg" alt="banner that says Franco Galfre - Frontend Developer" width="830px" heigth="200px" >
 
-<a href="https://github.com/francogalfre" target="_blank">
-  <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/franco.code" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/francxgalfre" target="_blank">
-  <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.behance.net/franquitogalfre" target="_blank">
-  <img src=https://img.shields.io/badge/behance-%23191919.svg?&style=for-the-badge&logo=behance&logoColor=white alt=behance style="margin-bottom: 5px;" />
-</a>
+<div align="start">
+  <a href="https://github.com/francogalfre" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://linkedin.com/in/francogalfre" target="_blank">
+    <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+  </a>
+  <a href="mailto:francogalfre.work@gmail.com" target="_blank">
+    <img src=https://img.shields.io/badge/email-%231E77B5.svg?&style=for-the-badge&logo=email&logoColor=white alt=email style="margin-bottom: 5px;" />
+  </a>
+</div> 
 
 <br />
 
