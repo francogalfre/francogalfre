@@ -22,11 +22,12 @@
 
 ```bash
 > help --info
-> I am a 'Full Stack Web Developer' passionate about creating exceptional web experiences.
-> With experience in UI/UX as a freelancer, I specialize in combining clean code with
-> intuitive design to build applications that not only work flawlessly, but also delight
-> users. Focused on becoming a professional Software Developer. I like to solve problems
-> and 'be better every day' ❤️
+
+> I am a 'Software Engineer' who builds production AI agent systems and full-stack
+> web applications. With a background in UI/UX and 25+ freelance projects,
+> I combine clean code with intuitive design to build products that not
+> only work flawlessly, but also delight users. Studying AI Engineering and building  
+> my own projects — solving problems and trying to 'be better every day' <3
 ```
 
 <br />
