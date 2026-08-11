@@ -1,4 +1,4 @@
-<img src="https://cdn.jsdelivr.net/gh/francogalfre/francogalfre@main/assets/banner.jpeg" alt="banner that says Franco Galfre - Full Stack Developer | AI Engineer Student" width="830px" >
+<img src="https://cdn.jsdelivr.net/gh/francogalfre/francogalfre@main/assets/banner.jpg" alt="banner that says Franco Galfre - AI & Software Engineer" width="830px" >
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 10px; margin-top: 10px;">
   <a href="https://twitter.com/francogalfredev">
